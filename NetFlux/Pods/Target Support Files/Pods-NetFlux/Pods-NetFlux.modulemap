@@ -1,0 +1,6 @@
+framework module Pods_NetFlux {
+  umbrella header "Pods-NetFlux-umbrella.h"
+
+  export *
+  module * { export * }
+}
